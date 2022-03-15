@@ -1,0 +1,2 @@
+# cristina
+Finanzas con python
